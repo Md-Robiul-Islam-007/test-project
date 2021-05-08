@@ -2,6 +2,6 @@ wp-content/*
 
 !wp-content/theme/
 
-wp-admin
-wp-incloud
-wp-config.php
+/wp-admin
+/wp-incloud
+/wp-config.php
