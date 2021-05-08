@@ -6,4 +6,4 @@
 /wp-content
 /wp-admin
 /wp-incloud
-/wp-config.php
+*.php
