@@ -1,7 +1,9 @@
-wp-content/*
+
+!wp-content/plugin/
 
 !wp-content/theme/
 
-wp-admin
-wp-incloud
-wp-config.php
+/wp-content
+/wp-admin
+/wp-incloud
+/wp-config.php
