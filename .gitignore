@@ -1,5 +1,7 @@
-wp-content*
-!wp-content/theme
+wp-content/*
+
+!wp-content/theme/
+
 wp-admin
 wp-incloud
 wp-config.php
