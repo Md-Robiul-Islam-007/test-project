@@ -1,3 +1,6 @@
+wp-content/*
+
+!wp-content/theme/
 
 wp-admin
 wp-incloud
